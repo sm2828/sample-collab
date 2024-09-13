@@ -1,4 +1,4 @@
-I'm a software developer currently looking for internships and entry-level positions. 
+I'm a software developer currently looking for an internship or entry-level position. 
 
 
 ## Most Used Languages
