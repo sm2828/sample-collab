@@ -1,7 +1,4 @@
-Hi, I'm Sean 
-
-- Software Engineer
-- Crypto Enjoyer
+I'm a software developer currently looking for internships and entry-level positions. 
 
 
 ## Most Used Languages
