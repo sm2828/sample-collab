@@ -1,4 +1,4 @@
-I'm a software developer currently looking for an internship or entry-level position. 
+I'm a software developer learning as much as I can about Solana.
 
 
 ## Most Used Languages
